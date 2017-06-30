@@ -1,0 +1,2 @@
+-e git+http://github.com/QUVA-Lab/artemis.git@1.4.1#egg=artemis
+-e git+http://github.com/petered/plato.git@0.2.0#egg=plato
